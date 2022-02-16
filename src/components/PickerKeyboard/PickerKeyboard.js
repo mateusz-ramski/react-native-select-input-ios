@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import { Dimensions, Picker } from 'react-native'
-
+import { Dimensions } from 'react-native'
+import { Picker } from '@react-native-picker/picker';
 import CustomKeyboard from '../CustomKeyboard'
 
 import propTypes from './types.js'
